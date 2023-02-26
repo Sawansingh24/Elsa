@@ -302,9 +302,9 @@ Elsa
 
 
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-▫️<a href=https://t.me/cinemala_com1> ᴄʜᴀɴɴᴇʟ </a>
+▫️<a href=https://t.me/Newnew_Movie> ᴄʜᴀɴɴᴇʟ </a>
 
-▫️<a href=https://t.me/Elsasupportgp> sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ </a>
+▫️<a href=https://t.me/+M58gfU0jDOc3YjFl> sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ </a>
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>"""
 
     RESTART_TXT = """
